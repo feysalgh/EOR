@@ -28,7 +28,7 @@ func main() {
 	fmt.Scan(&depth)
 	fmt.Print("Choose the formation type: (1)Sandstone (2)Carbonate (3)High porosity Sandstone: ")
 	fmt.Scan(&formation)
-	fmt.Print("Choose the thickness: (1) < 20 ft (2) > 20 ft no dip (3) > 20 ft with dip: ")
+	fmt.Print("Choose theQ thickness: (1) < 20 ft (2) > 20 ft no dip (3) > 20 ft with dip: ")
 	fmt.Scan(&thickness)
 	fmt.Print("Choose the composition: (1) High %C1-C7 (2) High %C2-C7 (3) High %C5-C12: ")
 	fmt.Scan(&composition)
